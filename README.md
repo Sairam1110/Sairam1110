@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @Sairam
-- 👀 I’m interested in learning everyhting i notice
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning everything i notice
+- 🌱 I’m currently learning B.E. EEE
+- 📫 How to reach me (msd07no1@gmail.com)
 - 😄 Pronouns: he
-- ⚡ Fun fact: do things deliver everthing
-
-<!---
-Sairam1110/Sairam1110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
